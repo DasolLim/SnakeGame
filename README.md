@@ -1,7 +1,10 @@
 # SnakeGame
 Personal game development project using Java. 
+
 Learned how to use JFrame and JPanel.
+
 Used multiple classes to organize the game
+
 
 ![image](https://user-images.githubusercontent.com/92288227/221087415-360a3634-de58-4574-97c7-ceeb521b9169.png)
 ![image](https://user-images.githubusercontent.com/92288227/221087064-ec83b466-5e34-4b8d-b118-a163e0ef495c.png)
